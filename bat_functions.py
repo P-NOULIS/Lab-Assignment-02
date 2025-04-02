@@ -7,7 +7,7 @@ def calculate_bat_power(level: int) -> int:
     Calculates Batman's power level based on a given 'level'.
     For this example, power is level multiplied by 42.
     """
-    return level * 41
+    return level * 42
 
 def signal_strength(distance: float) -> float:
     """
